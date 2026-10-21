@@ -1,5 +1,13 @@
 # PHP Docblocker for Zed + Ollama
 
+## Project Moved
+
+Future development has been moved to: https://github.com/TechyThomas/kywk
+
+This repo is kept here in it's original form for legacy purposes. This project started to grow outside of the original concept of this tool so I felt best to move it into it's own new standalone form.
+
+## About
+
 Generate PHPDoc comments for named PHP functions and methods, or request code reviews, using an Ollama model. Zed exposes the current file, selected text, and project root through its task system, so this project provides these tasks:
 
 - **PHP Docblocker: Current File** adds docblocks to named functions and methods in the saved PHP file.
